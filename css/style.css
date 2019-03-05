@@ -1,0 +1,36 @@
+
+.jumbotron img {
+  width: 150px;
+  border:5px solid #333;
+}
+
+hr {
+	width: 200px;
+	border-top: 2px solid #999;
+}
+
+section {
+	padding-top: 20px;
+	min-height: 400px;
+}
+
+.about {
+
+}
+
+.portfolio {
+	background-color: #eee;
+}
+
+.card img:hover {
+	transform: rotateZ(20deg);
+	-webkit-transform: rotatez(30deg);
+    background-color: #eee;
+    color: #D636C9;
+	transition: all 0.5s;
+}
+video {
+	width:100%;
+	height:auto;
+	
+}
